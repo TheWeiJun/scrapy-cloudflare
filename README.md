@@ -21,4 +21,4 @@ custom_settings = {
 2. 爬虫启动后，会自动调用改造后的twisted下载器，实现对五秒盾站点的高并发爬取。
 
 ## 关注公众号
-![WechatIMG339.jpg](WechatIMG339.jpg)
+<img src="WechatIMG339.jpg" alt="Image" width="400"/>
